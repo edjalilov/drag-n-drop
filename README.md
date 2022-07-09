@@ -1,8 +1,7 @@
-# Getting Started with Create React App
+# Drag & Drop
 
-In the project directory, you can run:
+### Beautiful UI Plugin
 
-### `npm start`
+Demo. [https://drag-n-drop-e928dqcdi-edjalilov.vercel.app/](https://drag-n-drop-e928dqcdi-edjalilov.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![preview img](/preview.png)
